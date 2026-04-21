@@ -12,3 +12,6 @@ This repository includes SQL queries that explore the following concepts:
 3. INTERSECT
 4. Data Labeling in Combined Queries
 5. Sorting Combined Results
+
+## Article link
+https://dev.to/rosemutai/mastering-sql-subqueries-and-ctes-28c3
