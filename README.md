@@ -1,7 +1,9 @@
 # SQL Week 2 Assignment
 
 **Name:** Mutai Chepngetich Rose
+
 **Date:** 21.04.2026
+
 **Database:** PostgreSQL
 
 This repository includes SQL queries that explore the following concepts:
